@@ -13,7 +13,7 @@ const data = {
     {
       id: 20,
       name: 'Sliced bread',
-      description: 'Loaf of fresh sliced wheat bread',
+      description: 'Loaf of fresh sliced 45 wheat bread',
       quantity: 1,
     },
     {
