@@ -5,7 +5,7 @@ import { Product } from '../core';
   selector: 'app-product-list',
   template: `
     <div *ngIf="!products?.length">
-      Loading data ...
+      Hello Loading data ...
     </div>
     <ul class="list">
       <li
